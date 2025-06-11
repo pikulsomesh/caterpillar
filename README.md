@@ -8,7 +8,6 @@ This repository contains resources for the training session on using Artificial 
 2. `finance_ai_demo.ipynb` - Jupyter notebook with step-by-step tutorial on financial data analysis using PyCaret
 
 ## Prerequisites
-- Basic understanding of Python
 - Familiarity with financial concepts
 - Jupyter Notebook environment
 
